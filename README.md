@@ -1,6 +1,5 @@
 # Web-Resume-Styling
 
-![Project Screenshot](screenshot.png)
 
 Enhanced and styled a personal online portfolio website using advanced CSS techniques to create a polished and professional look.
 
