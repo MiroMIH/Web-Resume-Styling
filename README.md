@@ -6,21 +6,13 @@ Enhanced and styled a personal online portfolio website using advanced CSS techn
 ## Table of Contents
 
 - [About](#about)
-- [Demo](#demo)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
 This project focuses on the enhancement and styling of a personal online portfolio website. The primary goal was to create an aesthetically pleasing and professional-looking website using advanced CSS techniques. The result is a visually appealing web resume that effectively showcases your skills and accomplishments.
 
-## Demo
 
-You can see a live demo of the website at [Demo Link](https://your-demo-link.com).
 
 ![Demo GIF](demo.gif)
 
